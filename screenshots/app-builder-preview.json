@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "VELN — Graphite & Cinema",
+      "hasCanvas": false,
+      "bodyTextLen": 1463,
+      "bodyTextHash": "ca5ec31032d405fc1154eda621232a3e2197110511c266c471acbf3717463c35",
+      "bodyTextPrefix": "Veln ABOUT WORKS PROCESS CONTACT REEL between Graphite *2026 & C",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "VELN — Graphite & Cinema",
+      "hasCanvas": false,
+      "bodyTextLen": 1361,
+      "bodyTextHash": "8a2f9d5519665101b9653760be441e03a62e11688caf77b373b8402979f40cb3",
+      "bodyTextPrefix": "Veln MENU between Graphite Cinema SCROLL DOWN WORKS Let the Line",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
